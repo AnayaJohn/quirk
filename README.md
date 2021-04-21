@@ -162,7 +162,7 @@ The following is a list of extremely _bad_ behaviors and states that could happe
 
 ### 1 - Large Scale Data Corruption
 
-All thoughts have been corrupted somehow. For example, the JSON format of every item is wrong. This is put at the top because not only can a user not access the data, but it may spiral out can cause continuing errors forcing the app to be "bricked."
+All thoughts have been corrupted somehow. For example; the JSON format of every item is wrong. This is put at the top because not only can a user not access the data, but it may spiral out can cause continuing errors forcing the app to be "bricked."
 
 ### 2 - Large Scale Data Loss
 
